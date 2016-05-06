@@ -1,0 +1,132 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+<meta http-equiv="Content-Language" content="ru" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Без названия 1</title>
+<style type="text/css">
+.style1 {
+	border: 5px solid #000000;
+	background-color: #FF6600;
+	width:200px;
+}
+.style5 {
+	border-left: 5px solid #000000;
+	border-top: 5px solid #000000;
+	border-bottom: 5px solid #000000;
+background-color: #0E57A9;
+}
+.style8 {
+	border-right: 5px solid #000000;
+	border-top: 5px solid #000000;
+	background-color: #FFFF00;
+}
+.style9 {
+	border: 5px solid #000000;
+	padding-left:125px;
+}
+.style10 {
+	border-left: 5px solid #000000;
+	border-bottom: 5px solid #000000;
+	background-color: #FFFF00;
+}
+.style11 {
+	border-left: 5px solid #000000;
+	border-right: 5px solid #000000;
+	border-bottom: 5px solid #000000;
+}
+.style12 {
+	border-right: 5px solid #000000;
+	border-bottom: 5px solid #000000;
+}
+.style13 {
+	border-left: 5px solid #000000;
+	border-top: 5px solid #000000;
+	border-bottom: 5px solid #000000;
+	background-color: #FFFF00;
+}
+.style14 {
+	border-left: 5px solid #000000;
+	border-top: 5px solid #000000;
+	border-bottom: 5px solid #000000;
+	padding-left:70px;
+}
+.style15 {
+	border-left: 5px solid #000000;
+	border-top: 5px solid #000000;
+}
+.style16 {
+	border-left: 5px solid #000000;
+	border-right: 5px solid #000000;
+	border-top: 5px solid #000000;
+}
+.style17 {
+	border-right: 5px solid #000000;
+	border-top: 5px solid #000000;
+	border-bottom: 5px solid #000000;
+}
+.style18 {
+	border-left: medium none #000000;
+	border-right: 5px solid #000000;
+	border-top: 5px solid #000000;
+	border-bottom: 5px solid #000000;
+}
+.style19 {
+	border-left-width: 0px;
+}
+.style20 {
+	border: 5px solid #000000;
+	background-color: #333333;
+	padding-left:60px;
+}
+.style21{
+	border: 5px solid #000000;
+	padding-left:77px;
+
+}
+</style>
+</head>
+
+<body>
+	<table style="width: 510px; height: 541px" class="style19" cellspacing="0">
+		<tr>
+			<td colspan="2" class="style12" style="height: 45px"></td>
+			<td colspan="2" class="style11" style="height: 45px"></td>
+			<td colspan="2" class="style10" style="height: 45px"></td>
+		</tr>
+		<tr>
+			<td style="height: 125px; width: 50px;" class="style18"></td>
+			<td colspan="3" rowspan="2" class="style1">
+			&nbsp;</td>
+			<td style="height: 125px" colspan="2" class="style13"></td>
+		</tr>
+		<tr>
+			<td rowspan="2" style="width: 50px" class="style17">&nbsp;</td>
+			<td style="height: 129px;" class="style21"></td>
+			<td style="height: 129px; width: 1000px;" class="style14"></td>
+		</tr>
+		<tr>
+			<td class="style20" style="height: 56px" ></td>
+			<td class="style20" style="height: 56px" ></td>
+			<td class="style9" style="width: 108px; height: 56px;"></td>
+			<td colspan="2" class="style14" style="height: 56px"></td>
+		</tr>
+		<tr>
+			<td rowspan="3" class="style8" style="padding-left: 43px">&nbsp;</td>
+			<td class="style20" style="height: 56px;"></td>
+			<td class="style20" style="height: 56px"></td>
+			<td class="style9" style="height: 56px;"></td>
+			<td colspan="2" rowspan="2" class="style5">&nbsp;</td>
+		</tr>
+		<tr>
+			<td colspan="2" rowspan="2" class="style16">&nbsp;</td>
+			<td class="style20" style="height: 23px; width: 108px;"></td>
+		</tr>
+		<tr>
+			<td colspan="3" class="style15">&nbsp;</td>
+		</tr>
+	</table>
+</body>
+
+</html>
